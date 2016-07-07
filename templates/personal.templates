@@ -1,0 +1,16 @@
+§ =============================================================
+§  Personal Information
+§ =============================================================
+
+SetMacro( 'AUTHOR',       'Antti Linno' )
+SetMacro( 'EMAIL',        'antti@begin.ee' )
+SetMacro( 'COMPANY',      'Begin OÜ' )
+
+§ =============================================================
+§  Date and Time Format
+§ =============================================================
+
+§SetFormat( 'DATE', '%Y-%m-%d' )
+§SetFormat( 'TIME', '%H:%M' )
+§SetFormat( 'YEAR', '%Y' )
+
