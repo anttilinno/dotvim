@@ -7,7 +7,7 @@ else
   set shell=/bin/bash
 endif
 
-set background=light
+set background=dark
 colorscheme solarized
 set laststatus=2
 set encoding=utf-8
