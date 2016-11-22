@@ -32,13 +32,17 @@ Plugin 'godlygeek/tabular'
 Plugin 'ervandew/supertab'
 "   Git
 Plugin 'tpope/vim-fugitive'
-"   Fuzzy search
+"   General plugins
 Plugin 'kien/ctrlp.vim'
+Plugin 'FelikZ/ctrlp-py-matcher'
 Plugin 'scrooloose/nerdtree'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
 Plugin 'tpope/vim-surround'
 Plugin 'SirVer/ultisnips'
+Plugin 'mbbill/undotree'
+Plugin 'majutsushi/tagbar'
+Plugin 'easymotion/vim-easymotion'
 "   Php
 Plugin 'StanAngeloff/php.vim'
 Plugin 'stephpy/vim-php-cs-fixer'

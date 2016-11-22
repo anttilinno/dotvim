@@ -7,7 +7,7 @@ else
   set shell=/bin/bash
 endif
 
-set background=dark
+set background=light
 colorscheme solarized
 set laststatus=2
 set encoding=utf-8
@@ -106,6 +106,3 @@ set mousehide  " Hide mouse after chars typed
 
 " Better complete options to speed it up
 set complete=.,w,b,u,U
-
-let g:sql_type_default = 'pgsql'
-
