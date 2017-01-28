@@ -64,3 +64,5 @@ nnoremap j gj
 nnoremap k gk
 nnoremap Q <Nop>
 
+"  Format column by first space
+vmap <F7> :Tabularize /\S\+;$/l1<Enter>
