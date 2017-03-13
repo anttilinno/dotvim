@@ -51,6 +51,7 @@ vmap <F6> :call FormatSQLDump()<CR>
 " Remove multiple spaces, but leave start of line indentation
 vmap <F4> :s/\(^ *\)\@<! \{2,}/ /<Enter>
 
+vmap <F7> :Tab /\s\+\zs\s/l1c0<Enter>
 " Disable arrow keys
 nnoremap <up> <nop>
 nnoremap <down> <nop>
