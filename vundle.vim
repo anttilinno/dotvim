@@ -43,9 +43,6 @@ Plugin 'SirVer/ultisnips'
 Plugin 'mbbill/undotree'
 Plugin 'majutsushi/tagbar'
 Plugin 'easymotion/vim-easymotion'
-"   Php
-Plugin 'StanAngeloff/php.vim'
-Plugin 'stephpy/vim-php-cs-fixer'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
