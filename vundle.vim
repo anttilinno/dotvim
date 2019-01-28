@@ -29,6 +29,7 @@ Plugin 'ervandew/supertab'
 "   General plugins
 Plugin 'kien/ctrlp.vim'
 Plugin 'FelikZ/ctrlp-py-matcher'
+Plugin 'mhinz/vim-grepper'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
